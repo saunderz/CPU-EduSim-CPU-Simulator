@@ -129,12 +129,3 @@ python cpu_frontend.py
 Este projeto foi desenvolvido para fins didáticos, como ferramenta prática de apoio ao estudo de Arquitetura de Computadores e Sistemas Embarcados.
 
 
-# 🔖 **Orientações Finais**
-
-- Substitua **`seuusuario`**, **`SEUID`** e links pelo seu usuário GitHub e LinkedIn.
-
-- Adicione imagens reais do programa na pasta `images` para as seções de screenshots.
-
-- Confirme se o nome do seu repositório corresponde ao projeto antes de publicar.
-
-
